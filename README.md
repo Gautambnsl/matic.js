@@ -25,7 +25,7 @@ You are very welcome to contribute, please see contributing guidelines - [[Contr
 Thank you to all the people who already contributed to matic.js!
 
 <a href="https://github.com/maticnetwork/matic.js/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=maticnetwork/matic.js" />
+  <img src="https://contrib.rocks/image?repo=devEdexa/edexa.js" />
 </a>
 
 Made with [contributors-img](https://contrib.rocks).
